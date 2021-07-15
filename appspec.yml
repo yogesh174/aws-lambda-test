@@ -7,6 +7,6 @@ Resources:
         Alias: "testrepoAlias"
         CurrentVersion: "1"
         TargetVersion: "2"
-Hooks:
-  - BeforeAllowTraffic: "lambda.function"
-  - AfterAllowTraffic: "lambda.function"
+# Hooks:
+#   - BeforeAllowTraffic: "lambda.function"
+#   - AfterAllowTraffic: "lambda.function"
