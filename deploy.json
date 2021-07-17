@@ -1,0 +1,4 @@
+{
+    "runtime": "nodejs14.x",
+    "handler": "index.handler"
+}
