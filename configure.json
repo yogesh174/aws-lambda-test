@@ -1,0 +1,6 @@
+{
+    "runtime": "python3.7",
+    "handler": "lambda.function",
+    "memory": 256,
+    "timeout": 60
+}
