@@ -1,0 +1,6 @@
+{
+    "runtime": "nodejs12.x",
+    "handler": "index.handler",
+    "memory": 256,
+    "timeout": 60
+}
